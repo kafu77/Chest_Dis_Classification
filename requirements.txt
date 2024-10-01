@@ -1,0 +1,27 @@
+tensorflow==2.12.0 # used for building and deploying machine learning and deep learning models.
+pandas             # Python library used for data manipulation and analysis.
+gdown              # used to download files from Google Drive directly into your local environment or system
+# urllib, request            # used to download files from any web URL
+dvc                # used for versioning machine learning models, datasets, and pipelines.
+mlflow     # used for managing the complete machine learning lifecycle, including experiment tracking, model versioning, deployment
+notebook           # used for creating and sharing documents that contain live code, equations, visualizations
+numpy              # used for numerical computing in Python, providing support for arrays, matrices,
+matplotlib         # used for creating static, interactive, and animated visualizations in Python
+seaborn            # used for statistical data visualization in Python
+python-box         #  used for creating and manipulating hierarchical configurations with a focus on simplifying the handling of nested dictionaries
+PyYAML             # used for parsing and writing YAML, which is a human-readable data serialization format.
+tqdm               # used to create progress bars for loops and iterable objects 
+ensure             # used as a method in libraries to validate or guarantee that a condition is met or to enforce a certain state
+joblib             #  used for efficient serialization of Python objects, particularly for large NumPy arrays
+types-PyYAML       # used for parsing and emitting YAML (YAML Ain't Markup Language) documents in Python.
+scipy              # used for scientific and technical computing.
+Flask              # lightweight web framework for Python that is used to build web applications quickly and easily
+Flask-Cors         # an extension for the Flask web framework that enables Cross-Origin Resource Sharing (CORS) in your Flask applications
+#-e .              # used with pip to install a package in editable mode from the current directory.
+
+# urllib, 
+# The urllib module in Python is used for working with URLs and performing tasks related to network requests.
+# It helps to open URLs, download content from the web, handle forms, and interact with websites using HTTP requests.
+
+# Pathlib
+# The pathlib module is used to handle filesystem paths in a more object-oriented and platform-independent manner.
