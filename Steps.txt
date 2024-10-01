@@ -4,7 +4,7 @@
  2. installation of virtual environment: conda create -n myenv python==3.8 -y
  3. Create project template setup
  4. Project requirements and setup installation
- 5. Logging, utils, and exceptions module setup
+ 5. Logging, utils, and exceptions module setup  # for exception we use python-box module It is an exception handling module
  6. setup utils configuration
  7. Project workflow setup
  8. All components notebook  experimental
