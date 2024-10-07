@@ -23,5 +23,11 @@ Flask-Cors         # an extension for the Flask web framework that enables Cross
 # The urllib module in Python is used for working with URLs and performing tasks related to network requests.
 # It helps to open URLs, download content from the web, handle forms, and interact with websites using HTTP requests.
 
+#urlparse
+
+## urlparse (from urllib.parse import urlparse)
+## urlparse is used  for breaking down (parsing) URLs into their individual components 
+#like the scheme, network location, path, parameters, query, and fragment.
+
 # Pathlib
 # The pathlib module is used to handle filesystem paths in a more object-oriented and platform-independent manner.

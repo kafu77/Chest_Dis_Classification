@@ -4,10 +4,10 @@
  2. installation of virtual environment: conda create -n myenv python==3.8 -y
  3. Create project template setup
  4. Project requirements and setup installation
- 5. Logging, utils, and exceptions module setup  # for exception we use python-box module It is an exception handling module
- 6. setup utils configuration
- 7. Project workflow setup
- 8. All components notebook  experimental
+ 5. Logging, utils configuration, and exceptions module setup  # for exception we use python-box module It is an exception handling module
+ 6. Understanding basics of mlflow, dagshub, and dvc configuration refer to MLops_tool_demo
+ 7. Project workflow setup   # see on README for details
+ 8. All components in jupyter notebook  experimental # used for checking purposes
  9. All components Modular code implementation
  10. Training pipeline setup
  11. DVC(MLOps tool) for pipeline tracking and implementation
